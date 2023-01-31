@@ -1,7 +1,7 @@
 <h1 align="center"> The Pyramid </h1>
 
 <p align="center">
-  <img alt="The Pyramid" src=".github/preview.png" width="70%">
+  <img alt="The Pyramid" src="preview.gif" width="70%">
 </p>
 
 <p align="center">
